@@ -48,22 +48,30 @@ assets/all
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/assets-all.PNG)
 
 /add-assets
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/2.PNG)
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/3.PNG)
 
 
 /add-task
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/4.PNG)
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/5.PNG)
 
 
 /add-worker
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master6.PNG)
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/7.PNG)
 
 
 /allocate-task
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/*.PNG)
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/9.PNG)
 
 
