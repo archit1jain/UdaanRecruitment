@@ -31,5 +31,13 @@ Now we can access APIs.
   
   f.) For /get-tasks-for-worker/id: will return JSON object with worker ID same as the URL.
   
-  
+
+5. Assets : { id: "" , Name: "" }
+6. Tasks: {id: "", Name: ""}
+7. Worker: {id: "", Name:""}
+8. Task Allocation: {id: "",AssetID: "" ,TaskId:"",WorkerID: "",timeofallocation:"",tasktobecompleteedby:""}
+
+
+![alt text](https://raw.githubusercontent.com/archit1jain/UdaanRecruitment/blob/master/assets-all.PNG)
+
 
