@@ -1,6 +1,10 @@
 # UdaanRecruitment
 This is  a HouseKeeping App APIs.
 
+Built using -
+NodeJS
+ExpressJS.
+
 I created the API collection in this App. I haven't used any UI but every API is working.
 Also, I parsed JSON object  instead of using any DBMS so that I can concentrate on API more.
 
@@ -38,6 +42,23 @@ Now we can access APIs.
 8. Task Allocation: {id: "",AssetID: "" ,TaskId:"",WorkerID: "",timeofallocation:"",tasktobecompleteedby:""}
 
 
+
+assets/all
+
 ![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/assets-all.PNG)
+
+/add-assets
+
+
+/add-task
+
+
+/add-worker
+
+
+/allocate-task
+
+
+/get-tasks-for-worker/id
 
 
