@@ -38,6 +38,6 @@ Now we can access APIs.
 8. Task Allocation: {id: "",AssetID: "" ,TaskId:"",WorkerID: "",timeofallocation:"",tasktobecompleteedby:""}
 
 
-![alt text](https://raw.githubusercontent.com/archit1jain/UdaanRecruitment/blob/master/assets-all.PNG)
+![alt text](https://github.com/archit1jain/UdaanRecruitment/blob/master/assets-all.PNG)
 
 
