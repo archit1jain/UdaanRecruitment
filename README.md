@@ -20,10 +20,16 @@ Now we can access APIs.
 4. To check all the APIs. We can use POSTMAN for checking the POST and GET.
 
   a.) For /add-asset: POST new asset to this extention and the updated JSON will be displayed.
+  
   b.) For /add-task: POST new asset to this extention and the updated JSON will be displayed.
+  
   c.) For /add-worker: POST new asset to this extention and the updated JSON will be displayed.
+  
   d.) For /assets/all: Will display every asset.
+  
   e.) For /allocate-task: POST new task-allocation to this extention and the updated JSON will be displayed.
+  
   f.) For /get-tasks-for-worker/id: will return JSON object with worker ID same as the URL.
+  
   
 
